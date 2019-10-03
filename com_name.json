@@ -8,162 +8,162 @@
     {
       "isbn": "0300088108",
       "Name": "ExxonMobil",
-      "author": "XOM"
+      "tickle": "XOM"
     },
     {
       "isbn": "0520204832",
       "Name": "Anheuser-Busch",
-      "author": "BUD"
+      "tickle": "BUD"
     },
     {
       "isbn": "0819163015",
       "Name": "Intel",
-      "author": "INTC"
+      "tickle": "INTC"
     },
     {
       "isbn": "0140445625",
       "Name": "Time Warner",
-      "author": "DL"
+      "tickle": "DL"
     },
     {
       "isbn": "0521228298",
       "Name": "Berkshire Hath",
-      "author": "BRK-B"
+      "tickle": "BRK-B"
     },
     {
       "isbn": "0500400288",
       "Name": "Citigroup",
-      "author": "C"
+      "tickle": "C"
     },
     {
       "isbn": "0713990597",
       "Name": "Facebook",
-      "author": "FB"
+      "tickle": "FB"
     },
     {
       "isbn": "1555406211",
       "Name": "Oracle",
-      "author": "ORCL"
+      "tickle": "ORCL"
     },
     {
       "isbn": "0691055491",
       "Name": "Bank of America",
-      "author": "BAC"
+      "tickle": "BAC"
     },
     {
       "isbn": "0486206459",
       "Name": "Alphabet",
-      "author": "GOOG"
+      "tickle": "GOOG"
     },
     {
       "isbn": "0801846196",
       "Name": "Berkshire Hath",
-      "author": "BRK-A"
+      "tickle": "BRK-A"
     },
     {
       "isbn": "0800631641",
       "Name": "Home Depot",
-      "author": "HD"
+      "tickle": "HD"
     },
     {
       "isbn": "0773508376",
-      "title": "Pfizer",
-      "author": "PFE"
+      "Name": "Pfizer",
+      "tickle": "PFE"
     },
     {
       "isbn": "0472064185",
-      "title": "Procter & Gam",
-      "author": "PG"
+      "Name": "Procter & Gam",
+      "tickle": "PG"
     },
     {
       "isbn": "0198148283",
-      "title": "Apple",
-      "author": "AAPL"
+      "Name": "Apple",
+      "tickle": "AAPL"
     },
     {
       "isbn": "0195076184",
-      "title": "JPMorgan Chase",
-      "author": "JPM"
+      "Name": "JPMorgan Chase",
+      "tickle": "JPM"
     },
     {
       "isbn": "0691067570",
-      "title": "Amazon",
-      "author": "AMZN"
+      "Name": "Amazon",
+      "tickle": "AMZN"
     },
     {
       "isbn": "0691040605",
-      "title": "UnitedHealth",
-      "author": "UNH"
+      "Name": "UnitedHealth",
+      "tickle": "UNH"
     },
     {
       "isbn": "0520085205",
-      "title": "AT&T",
-      "author": "T"
+      "Name": "AT&T",
+      "tickle": "T"
     },
     {
       "isbn": "080706792X",
-      "title": "Roche Holding",
-      "author": "RHHBY"
+      "Name": "Roche Holding",
+      "tickle": "RHHBY"
     },
     {
       "isbn": "037550432X",
-      "title": "Verizon Comm",
-      "author": "VZ"
+      "Name": "Verizon Comm",
+      "tickle": "VZ"
     },
     {
       "isbn": "0520063198",
-      "title": "Royal Dutch S",
-      "author": "RDS-A"
+      "Name": "Royal Dutch S",
+      "tickle": "RDS-A"
     },
     {
       "isbn": "0631174729",
-      "title": "Royal Dutch S",
-      "author": "RDS-B"
+      "Name": "Royal Dutch S",
+      "tickle": "RDS-B"
     },
     {
       "isbn": "0674474910",
-      "title": "Walmart Inc",
-      "author": "WMT"
+      "Name": "Walmart Inc",
+      "tickle": "WMT"
     },
     {
       "isbn": "0520069811",
-      "title": "Wells Fargo",
-      "author": "WFC"
+      "Name": "Wells Fargo",
+      "tickle": "WFC"
     },
     {
       "isbn": "0292750315",
-      "title": "China Mobile",
-      "author": "CHL"
+      "Name": "China Mobile",
+      "tickle": "CHL"
     },
     {
       "isbn": "0815550294",
-      "title": "Novartis",
-      "author": "NVS"
+      "Name": "Novartis",
+      "tickle": "NVS"
     },
     {
       "isbn": "0517277956",
-      "title": "Johnson & Joh",
-      "author": "JNJ"
+      "Name": "Johnson & Joh",
+      "tickle": "JNJ"
     },
     {
       "isbn": "0684106027",
-      "title": "Taiwan Semico",
-      "author": "TSM"
+      "Name": "Taiwan Semico",
+      "tickle": "TSM"
     },
     {
       "isbn": "0395549671",
-      "title": "Chevron",
-      "author": "CVX"
+      "Name": "Chevron",
+      "tickle": "CVX"
     },
     {
       "isbn": "0691000921",
-      "title": "Alphabet",
-      "author": "GOOGL"
+      "Name": "Alphabet",
+      "tickle": "GOOGL"
     },
     {
       "isbn": "0851154468",
-      "title": "Alibaba Group",
-      "author": "BABA"
+      "Name": "Alibaba Group",
+      "tickle": "BABA"
     }
   ]
 }
