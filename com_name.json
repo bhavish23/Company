@@ -2,67 +2,67 @@
   "books": [
     {
       "isbn": "0520203259",
-      "title": "Microsoft",
-      "author": "MSFT"
+      "Name": "Microsoft",
+      "tickle": "MSFT"
     },
     {
       "isbn": "0300088108",
-      "title": "ExxonMobil",
+      "Name": "ExxonMobil",
       "author": "XOM"
     },
     {
       "isbn": "0520204832",
-      "title": "Anheuser-Busch",
+      "Name": "Anheuser-Busch",
       "author": "BUD"
     },
     {
       "isbn": "0819163015",
-      "title": "Intel",
+      "Name": "Intel",
       "author": "INTC"
     },
     {
       "isbn": "0140445625",
-      "title": "Time Warner",
+      "Name": "Time Warner",
       "author": "DL"
     },
     {
       "isbn": "0521228298",
-      "title": "Berkshire Hath",
+      "Name": "Berkshire Hath",
       "author": "BRK-B"
     },
     {
       "isbn": "0500400288",
-      "title": "Citigroup",
+      "Name": "Citigroup",
       "author": "C"
     },
     {
       "isbn": "0713990597",
-      "title": "Facebook",
+      "Name": "Facebook",
       "author": "FB"
     },
     {
       "isbn": "1555406211",
-      "title": "Oracle",
+      "Name": "Oracle",
       "author": "ORCL"
     },
     {
       "isbn": "0691055491",
-      "title": "Bank of America",
+      "Name": "Bank of America",
       "author": "BAC"
     },
     {
       "isbn": "0486206459",
-      "title": "Alphabet",
+      "Name": "Alphabet",
       "author": "GOOG"
     },
     {
       "isbn": "0801846196",
-      "title": "Berkshire Hath",
+      "Name": "Berkshire Hath",
       "author": "BRK-A"
     },
     {
       "isbn": "0800631641",
-      "title": "Home Depot",
+      "Name": "Home Depot",
       "author": "HD"
     },
     {
