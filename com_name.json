@@ -1,10 +1,6 @@
 {
   "books": [
-  {
-    "isbn": 1,
-    "tickle": "MMM",
-    "Name": "3M Company"
-  },
+  
   {
     "isbn": 2,
     "tickle": "ABT",
